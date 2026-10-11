@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ProjectManager" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/dark_purple</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/dark_purple</item>
+        <item name="colorControlActivated">@color/dark_purple</item>
+    </style>
+
+    <style name="Theme.ProjectManager" parent="Base.Theme.ProjectManager" />
+</resources>

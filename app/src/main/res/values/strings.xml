@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ProjectManager</string>
+    <string name="hi_haydar">Hi, Haydar!</string>
+    <string name="good_night">Good Night</string>
+    <string name="search">Search</string>
+    <string name="all_projects">All Projects</string>
+    <string name="in_progress">Completion</string>
+    <string name="completed">Completed</string>
+    <string name="archived">Archived</string>
+    <string name="welcome">Welcome</string>
+    <string name="schedule_projects">Let\'s Schedule your\nprojects</string>
+    <string name="active_tasks">Active Tasks</string>
+    <string name="four_projects">4 Projects</string>
+    <string name="productivity">Productivity</string>
+    <string name="completed_88">34% Completed</string>
+    <string name="ongoing_project">Active Projects</string>
+    <string name="view_all">View all</string>
+    <string name="home">Home</string>
+    <string name="payment">Payment</string>
+    <string name="my_task">My Task</string>
+    <string name="profile">Profile</string>
+    <string name="welcome_back">Welcome back, 👋</string>
+    <string name="preferences">Preferences</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="notifications">Notifications</string>
+</resources>
